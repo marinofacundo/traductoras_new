@@ -1,4 +1,5 @@
 {
+  "titulo": "SERVICIOS",
   "areas": "Nuestras áreas de práctica mayormente se centran en:",
   "li1": "Derecho contractual",
   "li2": "Derecho penal empresario",
@@ -11,7 +12,7 @@
   "li9": "Compliance",
   "li10": "Derecho laboral",
   "li11": "Propiedad intelectual e industrial",
-  "li12": "Traducción de páginas web",
+  "li12": "Páginas web",
   "consul": "¡Consultanos por otros servicios!",
   "inter": "Prestamos servicios de traducción en el par de idiomas ING-ESP/ESP-ING y servicios de interpretación en reuniones de negocios."
 }
